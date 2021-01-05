@@ -3,7 +3,7 @@ package quote_details;
 public class User_Input {
 	
 	public static String chrome_path="E:\\Maven\\chromedriver.exe";
-	public static String url="https://www.kobster.website/elite-auth";
+	public static String url="https://www.kobszo.com/elite2";
 	public static String login_uname="vijayashanthi38@gmail.com";
 	public static String login_pwd="kobster123";
 	public static String search_input="Glass Board Marker";
